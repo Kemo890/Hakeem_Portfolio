@@ -6,4 +6,4 @@ Aspiring data analyst looking to get into field. Trying to build up my portfolio
 * Analyzed relationship between data
 * Created data visualizations
 
-![](https://github.com/Kemo890/Hakeem_Portfolio/blob/main/images/output.png)
+![image](https://github.com/Kemo890/Hakeem_Portfolio/blob/main/images/output.png)
