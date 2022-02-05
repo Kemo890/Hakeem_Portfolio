@@ -5,6 +5,7 @@
 * Completed basic data cleaning before hand by correcting some game names and converting the sales to millions.
 * Dataset set from https://www.kaggle.com/gregorut/videogamesales
 
+![](https://user-images.githubusercontent.com/87034180/152660198-c8e2eef7-c9fe-47ea-b25d-228ddbf0b2b9.png)
 
 ## [iPhone Sentiment Analysis:](https://github.com/Kemo890/iphone-sentiment/blob/master/iphone%20sentiment%20analysis.ipynb)
 * Sentiment analysis on Flipkart iPhone reviews
