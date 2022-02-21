@@ -1,5 +1,12 @@
 # Hakeem Portfolio
 
+## [Crunchbase Database Project:](https://github.com/Kemo890/Crunchbase-MySQL-Project)
+* Created a database in MySQL and loaded 4 tables into database.
+* Ensured database was in 3NF.
+* Use database to create a Tableau dashboard.
+
+![](https://github.com/Kemo890/Crunchbase-MySQL-Project/blob/main/dashboard.png?raw=true)
+
 ## [Video Game Sales SQL Project:](https://github.com/Kemo890/Video-Game-Sales-SQL-Project/blob/main/vgsales.sql)
 * Created a table in MySQL, loaded data from a CSV file into it, and did some basic exploratory data analysis.
 * Completed basic data cleaning before hand by correcting some game names and converting the sales to millions.
