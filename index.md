@@ -3,7 +3,7 @@
 ## [Crunchbase Database Project:](https://github.com/Kemo890/Crunchbase-MySQL-Project)
 * Created a database in MySQL and loaded 4 tables into database.
 * Ensured database was in 3NF.
-* Use database to create a Tableau dashboard.
+* Use database to create a [Tableau dashboard](https://public.tableau.com/app/profile/hakeem.allen/viz/CrunchbaseDashboard_16454292339490/VentureFundingDashboard).
 
 ![](https://github.com/Kemo890/Crunchbase-MySQL-Project/blob/main/dashboard.png?raw=true)
 
